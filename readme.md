@@ -1,4 +1,4 @@
-<h1 align="center">[Secret Network](https://github.com/secretswap/secretnetwork/blob/main/secretnetwork.md) & Web 3 Infrastructure with Chain of Secrets</h1>
+# [Secret Network](https://github.com/secretswap/secretnetwork/blob/main/secretnetwork.md) & Web 3 Infrastructure with Chain of Secrets
 
 
 In the ever-evolving landscape of [blockchain technology](https://www.chainofsecrets.org/blockchain.html), the establishment of a secure and reliable [Web 3 infrastructure](https://www.chainofsecrets.org/web3.html) has become a vital component of success. [Chain of Secrets](https://www.chainofsecrets.org), a leading blockchain protocol bootstrapping company, is committed to offering exceptional services in networking, subnets, system administration, hardware load balancing, and Web3 API’s, while focusing on node running. The cornerstone of their approach is the importance of validator node security hardening using CIS benchmarks and Ubuntu best practices. In this article, we dive deep into the significance of these methodologies and explore the potential risks associated with shared resource hardware.
