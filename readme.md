@@ -3,12 +3,12 @@
 
 In the ever-evolving landscape of [blockchain technology](https://www.chainofsecrets.org/blockchain.html), the establishment of a secure and reliable [Web 3 infrastructure](https://www.chainofsecrets.org/web3.html) has become a vital component of success. [Chain of Secrets](https://www.chainofsecrets.org), a leading blockchain protocol bootstrapping company, is committed to offering exceptional services in networking, subnets, system administration, hardware load balancing, and Web3 API’s, while focusing on node running. The cornerstone of their approach is the importance of validator node security hardening using CIS benchmarks and Ubuntu best practices. In this article, we dive deep into the significance of these methodologies and explore the potential risks associated with shared resource hardware.
 
-###The Backbone of Web 3 Infrastructure: Validator Node Security Hardening
+### The Backbone of Web 3 Infrastructure: Validator Node Security Hardening
 [Validator nodes](https://chainofsecrets.org/validator-as-a-service.html) play a pivotal role in maintaining the security and integrity of [blockchain networks](https://www.chainofsecrets.org/blockchain.html), forming the backbone of Web 3 infrastructure. Ensuring these nodes are hardened against potential threats is a top priority for any organization working with blockchain technology. Chain of Secrets acknowledges the importance of validator node security hardening and diligently implements best practices from the Center for Internet Security (CIS) and Ubuntu to achieve this objective.
 
-###CIS Benchmarks: Setting the Standard for Blockchain Infrastructure Security
+### CIS Benchmarks: Setting the Standard for Blockchain Infrastructure Security
 The Center for Internet Security (CIS) benchmarks are internationally recognized guidelines that provide a methodical and consistent approach to securing various technologies, including blockchain infrastructure. Chain of Secrets employs these benchmarks to ensure validator nodes meet the highest security standards. By adhering to the CIS guidelines, the company can effectively identify vulnerabilities, implement necessary security controls, and continuously monitor and maintain the integrity of validator nodes, strengthening the [Web 3 infrastructure](https://www.chainofsecrets.org/web3.html).
 
-###Ubuntu Best Practices: Boosting Security and Performance of Web3 Networks
+### Ubuntu Best Practices: Boosting Security and Performance of Web3 Networks
 In addition to CIS benchmarks, Chain of Secrets adopts Ubuntu best practices to enhance the security and performance of validator nodes within [Web3 networks](https://www.chainofsecrets.org/web3.html). Ubuntu, a widely-used operating system for running [blockchain nodes on bare metal](https://chainofsecrets.org/secure-enc-bar.html), offers an array of security features and tools. By leveraging these best practices, Chain of Secrets can optimize both the security and performance of validator nodes, providing an extra layer of protection against potential threats and contributing to the robustness of Web 3 infrastructure.
 
