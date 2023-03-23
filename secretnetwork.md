@@ -13,7 +13,7 @@ The [Secret Network](https://chainofsecrets.org/secret-network.html) is a blockc
 
 ## Security
 
-[Secret Nodes](https://chainofsecrets.org/secret-network.html)  use a consensus mechanism called Proof of Engaged Time (PoET), a variation of the widely-used Proof of Stake (PoS) algorithm. In PoET, node operators must lock up a certain amount of native tokens ([SCRT](https://www.chainofsecrets.org/secret-network.html) as collateral. This stake serves as a security deposit, ensuring that node operators act in the best interest of the network. 
+[Secret Nodes](https://chainofsecrets.org/secret-network.html)  use a consensus mechanism called Proof of Engaged Time (PoET), a variation of the widely-used Proof of Stake (PoS) algorithm. In PoET, node operators must lock up a certain amount of native tokens [SCRT](https://www.chainofsecrets.org/secret-network.html) as collateral. This stake serves as a security deposit, ensuring that node operators act in the best interest of the network. 
 
 ## Privacy
 One of the distinguishing features of the **Secret Network** is its commitment to privacy. Secret Nodes are responsible for executing secret contracts, which are privacy-preserving smart contracts that keep the data they process confidential. This is achieved through the use of Trusted Execution Environments (TEEs), specifically, the Intel Software Guard Extensions (SGX) technology. The TEEs allow for the computation of encrypted data without revealing the information itself.
